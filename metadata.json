@@ -1,0 +1,5 @@
+{
+  "name": "SkillLink",
+  "description": "A gig-economy platform connecting skill seekers with skilled professionals (teachers, doctors, mechanics, etc.). Features AI-powered matching, job tracking, and a rating system.",
+  "requestFramePermissions": []
+}
